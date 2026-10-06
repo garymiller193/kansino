@@ -1,2 +1,3 @@
-# kansino
-Landing published by Deploy Service
+# Kansino
+
+Published by Deploy Service.
